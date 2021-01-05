@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "caver-js": "^0.8.4-2",
     "firebase": "^6.0.4",
     "lodash": "^4.17.11",
